@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "roboflash.play.hosting",
-    "port": 21234,
-    "version": "1.20.1",
+    "port": 25929,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
